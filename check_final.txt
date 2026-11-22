@@ -1,17 +1,3 @@
 File: export_final.zip
 Ảnh: 22 · đã có frame_meta: 22 · số đối tượng: child_seat=16, face=8, face13=6, hand=13, infant_seat=2, object=8, person=10
-  [WARN] S01_ir.png: ảnh SVIRO là ảnh dựng: light nên là 'unknown'
-  [WARN] S01_rgb.png: ảnh SVIRO là ảnh dựng: light nên là 'unknown'
-  [WARN] S02_ir.png: ảnh SVIRO là ảnh dựng: light nên là 'unknown'
-  [WARN] S02_rgb.png: ảnh SVIRO là ảnh dựng: light nên là 'unknown'
-  [WARN] S03_ir.png: ảnh SVIRO là ảnh dựng: light nên là 'unknown'
-  [WARN] S03_rgb.png: ảnh SVIRO là ảnh dựng: light nên là 'unknown'
-  [WARN] S04_ir.png: ảnh SVIRO là ảnh dựng: light nên là 'unknown'
-  [WARN] S05_ir.png: ảnh SVIRO là ảnh dựng: light nên là 'unknown'
-  [WARN] S06_ir.png: ảnh SVIRO là ảnh dựng: light nên là 'unknown'
-  [WARN] S06_rgb.png: ảnh SVIRO là ảnh dựng: light nên là 'unknown'
-  [WARN] S07_ir.png: ảnh SVIRO là ảnh dựng: light nên là 'unknown'
-  [WARN] S07_rgb.png: ảnh SVIRO là ảnh dựng: light nên là 'unknown'
-  [WARN] S08_ir.png: ảnh SVIRO là ảnh dựng: light nên là 'unknown'
-  [WARN] S08_rgb.png: ảnh SVIRO là ảnh dựng: light nên là 'unknown'
-Kết quả: 0 lỗi, 14 cảnh báo. Cảnh báo cần bạn tự xét, không tự động là sai.
+Kết quả: 0 lỗi, 0 cảnh báo. Cảnh báo cần bạn tự xét, không tự động là sai.
